@@ -102,7 +102,8 @@ Each application prints **my Name and PIAIC Registration Number** using a functi
 
 Below is a combined terminal output showing both the **Simple App** and **Packaged App** running successfully and displaying the required information:
 
-![UV Apps Output](Screenshot from 2025-08-30 23-44-49.png)
+![UV Apps Output](Screenshot%20from%202025-08-30%2023-44-49.png)
+
 ---
 
 ## ✅ Git Setup and Commands
